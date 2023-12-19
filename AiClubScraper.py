@@ -3,7 +3,7 @@ import os
 import datetime
 import PyPDF2
 
-directory = 'C:/Users/Lorand/Google Drive/Programming/AI Club/Html Scraper/htmlfiles1' #insert directory of files to read here
+directory = '' #insert directory of files to read here
 
 
 
